@@ -10,6 +10,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+- [Screenshots](#screenshots)
 
 ## Overview
 This project is a static webpage dedicated to Ferrari. It features a sleek design with custom fonts and a responsive navigation bar. The page uses Bootstrap for styling and jQuery for interactivity. 
@@ -77,3 +78,9 @@ If you have any questions or need further assistance, please contact:
 - **Name:** Rohit Kumar
 - **Email:** rohit.rk2146@gmail.com
 - **GitHub:** [rohit-kumar-india](https://github.com/rohit-kumar-india)
+
+## Screenshots
+
+![alt text](image.png)
+
+Thank you for visiting Ferrari!
